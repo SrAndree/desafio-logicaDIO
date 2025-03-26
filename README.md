@@ -25,3 +25,8 @@ herói, depois utilize uma estrutura de decisão para apresentar alguma das mens
 ## Saída
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nível}**
+
+''' SOBRE OS CÓDIGOS '''
+XPHeroi.py é um código mais simples com as informações pré-definidas.
+
+XPHeroi2.py é o oposto você é quem insere o nome do heroi e a xp do mesmo podendo ao final inserir informações sobre um novo heroi ou finalizando a operação.
