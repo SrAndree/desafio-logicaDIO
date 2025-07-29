@@ -1,4 +1,4 @@
-# desafio-logicaDIO
+# desafio logica DIO
 
 Desafio Classificador de nível de Herói
 
@@ -30,3 +30,6 @@ Ao final deve se exibir uma mensagem:
 XPHeroi.py é um código mais simples com as informações pré-definidas.
 
 XPHeroi2.py é o oposto você é quem insere o nome do heroi e a xp do mesmo podendo ao final inserir informações sobre um novo heroi ou finalizando a operação.
+
+CalculadoraPartidasRanqueadas.py É uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
+depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
